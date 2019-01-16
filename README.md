@@ -1,0 +1,2 @@
+# DuplicateElemenInArray
+Duplicate
